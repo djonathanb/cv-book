@@ -105,3 +105,6 @@ venv.bak/
 
 # VS Code configs
 .vscode
+
+# Runtime folder for tests only
+runtime
